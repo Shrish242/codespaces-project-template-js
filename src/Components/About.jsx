@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Bg.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,20 +24,13 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am web developer and designer with a passion for creating beautiful and functional user interfaces. I have experience in creating user-friendly websites and applications that are accessible to all users. I am always looking for new ways to improve my skills and learn new technologies. I am passionate about creating innovative solutions that make a positive impact on people's lives.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+const skillsList = ["web development", "Web design", "Graphic design"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +38,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about creating user-friendly websites and applications that are accessible to all users. I believe that good design is essential for creating a positive user experience. I am always looking for new ways to improve my skills and learn new technologies. I am passionate about creating innovative solutions that make a positive impact on people's lives.";
 
 const About = () => {
   return (
